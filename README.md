@@ -39,7 +39,7 @@ The **High-Value Borrowers** segment is the most actionable finding: larger loan
 
 **Honest caveat:** sex turned out to be one of the strongest dividing lines in this clustering, separating "Established Male/Female Homeowners" into two segments. This is flagged deliberately, sex is not something that should be used as a basis for real credit decisions, and this is a useful reminder that unsupervised clustering can surface incidental correlations that aren't appropriate to act on directly.
 
-Full write-up with narrative and charts: [link to blog post]
+Full write-up with narrative: [https://medium.com/@Diarinyaapik/what-a-thousand-strangers-loan-applications-taught-me-about-letting-go-of-control-004928049bd7?postPublishedType=initial]
 
 ## Tech Stack
 

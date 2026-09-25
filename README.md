@@ -1,6 +1,6 @@
 # Credit Risk Customer Segmentation
 
-Unsupervised segmentation of loan applicants using K-Means clustering, exploring what natural customer groupings can reveal about credit risk — without a labeled default outcome.
+Unsupervised segmentation of loan applicants using K-Means clustering, exploring what natural customer groupings can reveal about credit risk, without a labeled default outcome.
 
 ## Overview
 

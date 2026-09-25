@@ -35,9 +35,9 @@ Source: [Kaggle — German Credit Risk](https://www.kaggle.com/datasets/uciml/ge
 | Young Renters | 161 | 2,480 DM | 17 mo | Youngest segment (avg. age 30), renters |
 | **High-Value Borrowers** | 185 | **7,788 DM** | **38 mo** | Largest loans, longest terms, lowest savings cushion |
 
-The **High-Value Borrowers** segment is the most actionable finding — larger loan exposure, longer repayment horizon, and the highest rate of holding no savings account. This combination would warrant closer scrutiny under a 5C-style framework, even before a full scoring model is built.
+The **High-Value Borrowers** segment is the most actionable finding: larger loan exposure, longer repayment horizon, and the highest rate of holding no savings account. This combination would warrant closer scrutiny under a 5C-style framework, even before a full scoring model is built.
 
-**Honest caveat:** sex turned out to be one of the strongest dividing lines in this clustering, separating "Established Male/Female Homeowners" into two segments. This is flagged deliberately — sex is not something that should be used as a basis for real credit decisions, and this is a useful reminder that unsupervised clustering can surface incidental correlations that aren't appropriate to act on directly.
+**Honest caveat:** sex turned out to be one of the strongest dividing lines in this clustering, separating "Established Male/Female Homeowners" into two segments. This is flagged deliberately, sex is not something that should be used as a basis for real credit decisions, and this is a useful reminder that unsupervised clustering can surface incidental correlations that aren't appropriate to act on directly.
 
 Full write-up with narrative and charts: [link to blog post]
 
